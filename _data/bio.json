@@ -3,46 +3,46 @@
     "name": "Tyler Jurecki",
     "label": "Tech Macgyver",
     "picture": "https://Jurecki07.github.io/images/Molly.png",
-    "email": "molly@hawaii.edu",
+    "email": "Jurec1td@cmich.edu",
     "phone": "606-422-2545",
     "website": "https://jurecki07.github.io",
     "summary":"I.T Consulting, Product & Inventory Management, DevOps, Business Intelligence, Web Development, and SEO Strategist. Muscle Mind & Heart Workout Enthusiast. ",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "41501",
+      "city": "Pikeville",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Kentucky
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Jurecki07
+        "url": "http://github.com/Jurecki07
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "",
+        "url": "https://www.linkedin.com/in/tyler-jurecki-7b881711a"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Jurecki07
+        "url": "http://twitter.com/Jurecki07
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "",
+        "url": "http://instagram.com"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Back-End Development"
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
