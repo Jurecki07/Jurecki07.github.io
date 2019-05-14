@@ -39,19 +39,20 @@
   },
   "interests": [
     {
-      "name": "test",
+      "name": "Building Computers",
       "keywords": [
         "Arduino",
-        "TI MSP430"
+        "TI MSP430",
+        "Rasberry-Pi Projects"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Crypto Mining",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Expanding Consciousness",
       "keywords": [
       ]
     }
@@ -61,12 +62,12 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "HTML",
+        "Python",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SQL",
+        "Vue.js"
       ]
     },
     {
@@ -83,11 +84,11 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Central Michigan University",
+      "area": "Law & Economics",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2011-09-01",
+      "endDate": "2016",
       "gpa": "",
       "courses": [
       ]
